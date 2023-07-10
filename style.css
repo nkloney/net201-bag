@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'orange_juice';
     src: url('orange_juice_2.0.woff2') format('woff2'),
-	 url('orange_juice_2.0.woff) format('woff');
+	 url('orange_juice_2.0.woff') format('woff');
     font-weight: normal;
     font-style: normal;
   }

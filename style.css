@@ -33,14 +33,14 @@ body {
 	position: relative;
 	height: 13%;
 	left: -10px;
-	padding-top: 20%;
-	padding-bottom: 20%;
+	margin-top: 10%;
+	margin-bottom: 10%;
 }
 
 .item {
 	position: absolute;
-	max-width: 150%;
-	max-height: 150%;
+	max-width: 125%;
+	max-height: 125%;
 	z-index: 2;
 }
 

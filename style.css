@@ -45,7 +45,7 @@ body {
 }
 
 .bag-walls {
-	height: 80%;
+	height: 60%;
 	width: 60%;
 	background: #d38c3a;
 	border-radius: 0rem;
@@ -72,7 +72,7 @@ body {
 	height: 7%;
 	background: #ffa946;
 	position: absolute;
-	bottom: 75.5%;
+	bottom: 55.5%;
 	left: 20.25%;
 	opacity: 1;
 	z-index: 1;

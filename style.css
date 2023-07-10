@@ -48,8 +48,8 @@ body {
 
 .item {
 	position: absolute;
-	max-width: 140%;
-	max-height: 140%;
+	max-width: 90%;
+	max-height: 90%;
 	z-index: 2;
 }
 

@@ -28,16 +28,16 @@ body {
 	left: 0px;
 }
 
-#left-container > .item-holder {
-	margin: 10% 0% 10% 10%;
+#left-container > div > .item-holder {
+	margin: 10% 10% 10% 0%;
 }
 
 #right-container {
 	right: 0px;
 }
 
-#right-container > .item-holder {
-	margin: 10% 10% 10% 0%;
+#right-container > div > .item-holder {
+	margin: 10% 0% 10% 10%;
 }
 
 .item-holder {
@@ -48,8 +48,8 @@ body {
 
 .item {
 	position: absolute;
-	max-width: 125%;
-	max-height: 125%;
+	max-width: 140%;
+	max-height: 140%;
 	z-index: 2;
 }
 

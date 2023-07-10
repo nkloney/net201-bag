@@ -28,17 +28,17 @@ body {
 	left: 0px;
 }
 
-#left-container > .item-holder {
+/* #left-container > .item-holder {
 	margin: 10px 10px 10px 0px;
-}
+} */
 
 #right-container {
 	right: 0px;
 }
 
-#right-container > .item-holder {
+/* #right-container > .item-holder {
 	margin: 10px 0px 10px 10px;
-}
+} */
 
 .item-holder {
 	position: relative;

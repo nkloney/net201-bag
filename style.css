@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'VLADIMIR';
+    src: url('VLADIMIR.ttf');
+  }
+
+h1 {
+  color: #3a241d;
+	text-align: center;
+   }
+
+body {
+  font-family: 'VLADIMIR', Helvetica, arial, sans-serif;
+}
+
+.container {
+  background-color: #eee;
+	width: 15%;
+	top: 0px;
+	position: absolute;
+	height: 100%;
+	padding: 10px;
+}
+
+#left-container {
+	left: 0px;
+}
+
+#right-container {
+	right: 0px;
+}
+
+.item-holder {
+	position: relative;
+	height: 13%;
+	left: -10px;
+}
+
+.item {
+	position: absolute;
+	max-width: 150%;
+	max-height: 150%;
+	z-index: 2;
+}
+
+.bag-walls {
+	height: 80%;
+	width: 60%;
+	background: #d38c3a;
+	border-radius: 0rem;
+	position: absolute;
+	bottom: 1%;
+	left: 20%;
+	opacity: 1.0;
+	z-index: 10;
+}
+
+.bag-bottom {
+	width: 60%;
+	height: 7%;
+	background: #ad7432;
+	position: absolute;
+	bottom: 0%;
+	left: 20%;
+	opacity: 1;
+	z-index: 11;
+}
+
+.bag-top {
+	width: 59.5%;
+	height: 7%;
+	background: #ffa946;
+	position: absolute;
+	bottom: 75.5%;
+	left: 20.25%;
+	opacity: 1;
+	z-index: 1;
+}

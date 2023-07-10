@@ -28,16 +28,22 @@ body {
 	left: 0px;
 }
 
+#left-container > .item-holder {
+	margin: 10% 0% 10% 10%;
+}
+
 #right-container {
 	right: 0px;
+}
+
+#right-container > .item-holder {
+	margin: 10% 10% 10% 0%;
 }
 
 .item-holder {
 	position: relative;
 	height: 13%;
 	left: -10px;
-	margin-top: 10%;
-	margin-bottom: 10%;
 }
 
 .item {

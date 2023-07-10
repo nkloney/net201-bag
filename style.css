@@ -1,7 +1,16 @@
+@font-face {
+  font-family: OrangeJuice;
+  src: url(orangejuice.ttf);
+}
+
+body {
+  font-family: OrangeJuice;
+}
+
 h1 {
   color: #3a241d;
 	text-align: center;
-   }
+}
 
 .container {
   background-color: #eee;

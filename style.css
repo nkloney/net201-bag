@@ -1,19 +1,8 @@
-@font-face {
-    font-family: 'orange_juice';
-    src: url('orange_juice_2.0.woff2') format('woff2'),
-	 url('orange_juice_2.0.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
 
 h1 {
   color: #3a241d;
 	text-align: center;
    }
-
-body {
-  font-family: 'VLADIMIR', Helvetica, arial, sans-serif;
-}
 
 .container {
   background-color: #eee;

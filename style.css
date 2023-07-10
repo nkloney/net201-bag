@@ -29,10 +29,14 @@ body {
 	right: 0px;
 }
 
+
+
 .item-holder {
 	position: relative;
 	height: 13%;
 	left: -10px;
+	padding-top: 20%;
+	padding-bottom: 20%;
 }
 
 .item {

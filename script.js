@@ -7,7 +7,7 @@ dragElement(document.getElementById('item6'));
 dragElement(document.getElementById('item7'));
 dragElement(document.getElementById('item8'));
 
-let max_Z_Index = 1
+let max_Z_Index = 2
 
 function dragElement(bagElement) {
 	//set 4 positions for positioning on the screen

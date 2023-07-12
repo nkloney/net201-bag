@@ -116,59 +116,10 @@ div#right-container > div.item-holder {
   z-index: 5001;
 } */
 
-.bag-lip {
-  height: 5%;
-  width: 56%;
-  background: black;
-  position: absolute;
-  bottom: 58%;
-  left: 22%;
-  opacity: 0.5;
-  z-index: 4999;
+.bag-w {
+  transform: scaleX(0.9) scaleY(0.6) scaleZ(1) rotateX(30deg) rotateY(-15deg) rotateZ(-5deg) translateX(9px) translateY(0px) translateZ(0px) skewX(-10deg) skewY(19deg);
 }
-
-.bag-lip2 {
-  height: 5%;
-  width: 56%;
-  background: black;
-  position: absolute;
-  bottom: 58%;
-  left: 22%;
-  opacity: 0.5;
-  z-index: 4999;
-}
-
-.bag-wall1 {
-	height: 60%;
-	width: 60%;
-	background: #d38c3a;
-	border-radius: 0rem;
-	position: absolute;
-	bottom: 1%;
-	left: 20%;
-	opacity: 1;
-  z-index: 5000;
-}
-
-.bag-wall2 {
-	height: 60%;
-	width: 20%;
-	background: #d38c3a;
-	border-radius: 0rem;
-	position: absolute;
-	bottom: 1%;
-	left: 20%;
-	opacity: 1;
-  z-index: 5000;
-}
-
-.bag-inside {
-  width: 60%;
-	height: 30%;
-	background: #38a79c;
-	position: absolute;
-	bottom: 0%;
-	left: 20%;
-	opacity: 1;
-  z-index: 5001;
+.cube-wrap {
+  perspective: 1000px;
+  perspective-origin: 50% 50%;
 }

@@ -8,4 +8,3 @@ https://www.w3schools.com/tags/ev_onmouseover.asp#gsc.tab=0
 I don't know if I should change the z-index of the bag walls, or maybe just them item? I'm not good with javascript
 
 okay so probably changing the zindex of the item to be BELOW the bag walls ONLY WHEN it touches the top of the bag.
-

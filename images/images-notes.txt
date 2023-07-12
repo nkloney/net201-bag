@@ -1,0 +1,8 @@
+item1 - egg: https://pixabay.com/vectors/egg-poultry-chicken-protein-37805/
+item2 - apple: https://commons.wikimedia.org/wiki/File:Red_apple.svg
+item3 - milk carton: https://pixabay.com/vectors/egg-poultry-chicken-protein-37805/
+item4 - meat leg: https://pixabay.com/vectors/food-meal-meat-clip-art-cutout-7846677/ 
+item5 - cucumber: https://clipartmag.com/download-clipart-image#fruits-and-vegetables-clipart-2.png
+item6 - carrot: https://pixabay.com/illustrations/carrots-vegetable-vegetarian-food-768236/
+item7 - spinich: https://clipground.com/pics/get
+item8 - broccoli: https://clipartcraft.com/explore/vegetables-clipart-broccoli/

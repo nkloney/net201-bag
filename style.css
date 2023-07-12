@@ -1,12 +1,10 @@
 @font-face {
-  font-family: OrangeJuice;
-  src: url(orangejuice.ttf);
-}
-
-body {
-  font-family: OrangeJuice;
-  font-size: 150%;
-}
+    font-family: 'orange_juiceregular';
+    src: url('orange_juice_2.0.woff2') format('woff2'),
+	 url('orange_juice_2.0.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
 
 h1 {
   color: #3a241d;
@@ -57,8 +55,18 @@ div#right-container > div.item-holder {
 	z-index: 5;
 }
 
-#item5, #item6 {
+#item4 {
+  max-width: 90%;
+  left: 5%;
+}
+
+#item5 {
   max-width: 100%;
+}
+
+#item6 {
+  max-height: 160%;
+  left: 20%;
 }
 
 #item7, #item8 {

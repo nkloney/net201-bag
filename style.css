@@ -116,18 +116,18 @@ div#right-container > div.item-holder {
   z-index: 5001;
 } */
 
-.bag-top {
-	width: 59.5%;
-	height: 7%;
-	background: #ffa946;
-	position: absolute;
-	bottom: 55.5%;
-	left: 20.25%;
-	opacity: 1;
-	z-index: 0;
+.bag-lip {
+  height: 5%;
+  width: 56%;
+  background: black;
+  position: absolute;
+  bottom: 58%;
+  left: 22%;
+  opacity: 0.5;
+  z-index: 4999;
 }
 
-.bag-lip {
+.bag-lip2 {
   height: 5%;
   width: 56%;
   background: black;
@@ -152,7 +152,7 @@ div#right-container > div.item-holder {
 
 .bag-wall2 {
 	height: 60%;
-	width: 60%;
+	width: 20%;
 	background: #d38c3a;
 	border-radius: 0rem;
 	position: absolute;
@@ -164,7 +164,7 @@ div#right-container > div.item-holder {
 
 .bag-inside {
   width: 60%;
-	height: 7%;
+	height: 30%;
 	background: #38a79c;
 	position: absolute;
 	bottom: 0%;

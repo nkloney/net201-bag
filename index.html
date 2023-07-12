@@ -13,7 +13,7 @@
         <div id="page">
             <div id="left-container" class="container">
                 <div class="item-holder">
-                    <img class="item" alt="item" id="item1" src="./images/item1.png" />
+                    <img class="item" alt="item" id="item1" src="./images/item1.png" draggable="true" />
                 </div>
                 <div class="transparent"> <!-- spacing -->
                     <img class="transparent" alt="transparent" id="transparent" src="./images/transparent.png" />
@@ -59,8 +59,21 @@
             </div>
             <div id="bag">
                 <div class="bag-top"></div>
-                <div class="bag-walls"></div>
-                <div class="bag-bottom"></div>
+                <div class="bag-lip" id="lip"></div>
+                <div class="bag-walls">
+                  <style>
+                    .bag-walls {
+                      z-index: 1;
+                    }
+                  </style>
+                </div>
+                <div class="bag-bottom">
+                  <style>
+                    .bag-bottom {
+                      z-index: 5001;
+                    }
+                  </style>
+                </div>
             </div>
         </div>
     </body>

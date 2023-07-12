@@ -1,0 +1,8 @@
+okay so i'm trying to make it so when the item is dragged over the lip of the bag, the bag z-index changes to be on TOP of the item so it looks like its going in ONLY WHEN its being dragged over the top. I don't know how to do that, it's making my brain hurt lol.
+Here's the sites I'm using as references:
+https://www.w3schools.com/tags/ev_ondragover.asp
+
+A mouseover event might be easier to do?
+https://www.w3schools.com/tags/ev_onmouseover.asp#gsc.tab=0
+
+I don't know if I should change the z-index of the bag walls, or maybe just them item? I'm not good with javascript
